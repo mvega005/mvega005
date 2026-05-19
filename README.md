@@ -3,16 +3,14 @@
 ### Spanish Junior Web Developer • 
 
 ```txt
-Recently graduated in Web Application Development.
-Building projects, learning constantly
-and growing one step at a time.
+🎓Higher Technician in Web Application Development at IES Virgen de Guadalupe.
 ```
 
 ---
 
 ## 🌙 A Few Things About Me
 
-- 🌺 Web developer that enjoy creating clean and useful applications
+- 🌺 Web developer who enjoys creating clean and useful applications
 - 🧠 Always curious and excited to learn new technologies
 - 🌱 Currently growing my skills through personal projects
 - 🎯 Looking for opportunities to gain experience and keep evolving
@@ -22,8 +20,13 @@ and growing one step at a time.
 
 ## 🛠️ Skills
 
-###  Frontend & Backend 🧩
----
+### 🎨 Frontend & Backend 🧩
+<p align="left">──────────✦──────────</p>
+
+**- Frontend:** *HTML, CSS, Bootstrap, JavaScript, TypeScript, jQuery, WordPress.* <br/>
+**- Backend:** *PHP, Laravel, Angular.* <br/>
+**- Databases:** *MySQL, SQL Server, phpMyAdmin.*
+
 </br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
@@ -32,7 +35,7 @@ and growing one step at a time.
     width="48" 
     height="48"
   />
-  <img src="https://skillicons.dev/icons?i=js,ts,wordpress,php,laravel,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,wordpress,php,laravel,angular,mysql" />
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
     width="48" 
@@ -47,14 +50,17 @@ and growing one step at a time.
 
 <br/>
 
-<div align="center"> ✦ </div>
 
-### 🛠️ Tools I Work With 
----
-<br/>
+
+### 🛠️ Tools I Work With 🛠️
+<p align="left">─────────✦─────────</p>
+
+**- Development & Version Control:** *Git, GitHub.* <br/>
+**- IDEs & Editors:** *VS Code, Eclipse, Trae IDE.* <br/>
+**- Design Tools:** *Figma, Canva, Discord, Zoom, Jira.*
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma,discord" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma" />
 </p>
 
 <p align="center">
@@ -65,11 +71,11 @@ and growing one step at a time.
 </p>
 
 <br/>
-<div align="center"> ✦ </div>
+<!-- <div align="center"> ✦ </div> -->
 
 ---
 
-## 📚 Currently Learning
+##  💡 Currently Improving
 
 - 🐳 Docker & containers
 - ⚡ Better backend architecture
