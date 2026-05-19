@@ -1,6 +1,6 @@
 # I'm Miriam Vega 🌺
 
-### Spanish Junior Web Developer • 
+### 🎓 Spanish Junior Web Developer • 
 
 ```txt
 🎓Higher Technician in Web Application Development at IES Virgen de Guadalupe.
@@ -11,17 +11,15 @@
 ## 🌙 A Few Things About Me
 
 - 🌺 Web developer who enjoys creating clean and useful applications
-- 🧠 Always curious and excited to learn new technologies
-- 🌱 Currently growing my skills through personal projects
 - 🎯 Looking for opportunities to gain experience and keep evolving
-- ☕ Coffee and music help me debug faster
+- 🌱 Currently growing my skills through personal projects
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills, Tools & Learning
 
 ### 🎨 Frontend & Backend 🧩
-<p align="left">──────────✦──────────</p>
+<p align="left">────────── ✦ ──────────</p>
 
 **- Frontend:** *HTML, CSS, Bootstrap, JavaScript, TypeScript, jQuery, WordPress.* <br/>
 **- Backend:** *PHP, Laravel, Angular.* <br/>
@@ -50,10 +48,8 @@
 
 <br/>
 
-
-
 ### 🛠️ Tools I Work With 🛠️
-<p align="left">─────────✦─────────</p>
+<p align="left">───────── ✦ ─────────</p>
 
 **- Development & Version Control:** *Git, GitHub.* <br/>
 **- IDEs & Editors:** *VS Code, Eclipse, Trae IDE.* <br/>
@@ -70,39 +66,23 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 </p>
 
-<br/>
-<!-- <div align="center"> ✦ </div> -->
+###  🌱 Learning Or Improving 🚀
 
----
+<p align="left">────────── ✦ ───────────</p>
 
-##  💡 Currently Improving
-
-- 🐳 Docker & containers
-- ⚡ Better backend architecture
-- 🤖 AI-powered tools
-- 🔥 Building scalable applications
+ <p align="center"> <i>👾Laravel, Angular  •  🧩Backend structure and clean architecture  •  🤖AI-powered tools</i> </p> 
   
 ---
 ## 📌 Featured Projects
 
-### 🌐 Project Name
-Professional and responsive web application focused on usability and clean design.
 
-**Tech:** React • Node.js • MySQL
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
+#### Feel free to reach out, Let's build something together 🫱🏻‍🫲🏼 ####
 
-<p>- 💼 LinkedIn → https://www.linkedin.com/in/miriamlopezvega/ <br/>
-- 📧 Email → mlvega2005@gmail.com<br/>
-- 🌍 Portfolio → ⌛...</p>
-
----
-
-<div align="center">
-
-### ✨ "Trying to build better software one project at a time."
-
-</div>
+- 💼 LinkedIn → https://www.linkedin.com/in/miriamlopezvega/ <br/>
+- 📩 Email → mlvega2005@gmail.com<br/>
+- 💻 Portfolio → Coming Soon...⌛
