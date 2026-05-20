@@ -1,7 +1,7 @@
 # Hola, Soy Miriam Vega 🌺
 
 <p align="center">
-  · 🎓 Soy Técnico Superior en Desarrollo de Aplicaciones Web graduada en IES Virgen de Guadalupe, Badajoz, España 🇪🇸. Mi experiencia se centra en PHP, aunque estoy abierta a seguir aprendiendo, adaptarme a nuevas tecnologías y crecer en diferentes áreas del desarrollo web. Me gusta desarrollar aplicaciones web funcionales, intuitivas y bien organizadas. Disfruto mejorando poco a poco mis habilidades y enfrentándome a nuevos retos a través de proyectos nuevos. Me considero una persona bastante dedicada y que le pone empeño real a lo que hace.
+• 🎓 Soy Técnico Superior en Desarrollo de Aplicaciones Web graduada en IES Virgen de Guadalupe, Badajoz, España 🇪🇸. Mi experiencia se centra en PHP, aunque estoy abierta a seguir aprendiendo, adaptarme a nuevas tecnologías y crecer en diferentes áreas del desarrollo web. Me gusta desarrollar aplicaciones web funcionales, intuitivas y bien organizadas. Disfruto mejorando poco a poco mis habilidades y enfrentándome a nuevos retos a través de proyectos nuevos. Me considero una persona bastante dedicada y que le pone empeño real a lo que hace.
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-## 🌙 A Few Things About Me
+## 🌙 Algunas Cosas Sobre Mí
 
 - 🤝 Me siento cómoda trabajando en equipo y siempre estoy abierta a aprender de los demás.
 - 🌺 Desarrolladora web que disfruta creando aplicaciones limpias y útiles.
