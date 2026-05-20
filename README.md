@@ -24,7 +24,7 @@
 ## 🛠️ Habilidades, Herramientas & Aprendizaje
 
 ### 🎨 Frontend & Backend 🧩
-<p align="left">────────── ✦ ──────────</p>
+<p align="left">───────── ✦ ──────────</p>
 
 **- Frontend:** *HTML, CSS, Bootstrap, JavaScript, TypeScript, jQuery, WordPress.* <br/>
 **- Backend:** *PHP, Laravel.* <br/>
@@ -54,7 +54,7 @@
 <br/>
 
 ### 🛠️ Herramientas 🛠️
-<p align="left">───────── ✦ ─────────</p>
+<p align="left">─────── ✦ ───────</p>
 
 **- Desarrollo y Control de Versiones:** *Git, GitHub.* <br/>
 **- IDEs & Editores:** *VS Code, Eclipse, Trae IDE.* <br/>
@@ -73,7 +73,7 @@
 
 ###  🌱 Aprendiendo o Profundizando 🚀
 
-<p align="left">────────── ✦ ───────────</p>
+<p align="left">───────────── ✦ ──────────────</p>
 
  <p align="center"> <i>👾Laravel  •  🧩Buenas prácticas de desarrollo y estructuras backend más escalables.  •  🤖Consumo de APIs Rest  •  💻Organización de proyectos </i> </p> 
 
